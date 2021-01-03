@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JgnAETvjp5EXEJsqrHa8Ay/008M04YjTnWKChuKuavG6JmkqL270hEWIukALKYNVrXHf+zCezP4EC/ooVIy1hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shark\\source\\repos\\nfrvCourseWork\\nfrvCourseWork\\nfrvCourseWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shark\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\shark\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\shark\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
